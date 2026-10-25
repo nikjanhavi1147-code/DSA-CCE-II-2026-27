@@ -75,6 +75,25 @@ Software Requirements
 - Git
 - GitHub account
 
-Conclusion
+How to Compile and Run
 
+Open the VS code terminal in the folder containing the program.
+
+Stack Using Array
+g++ stack_array.cpp -o stack_array.exe
+stack_array.exe
+
+Queue Using Array
+g++ queue_array.cpp -o stack_array.exe
+stack_array.exe
+
+Stack Using Linked List
+g++ stack_linked_list.cpp -o stack_linked_list.exe
+stack_linked_list.exe
+
+Queue Using Linked List
+g++ queue_linked_list.cpp -o queue_linked_list.exe
+queue_linked_list.exe
+
+Conclusion
 This project helped demonstrate Stack and Queue operations using arrays and linked lists. Git and GitHub are used to maintain and share the source code.
